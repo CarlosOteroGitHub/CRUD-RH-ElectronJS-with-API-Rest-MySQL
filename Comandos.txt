@@ -1,0 +1,11 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para iniciar un proyecto NodeJS.
+
+° npm install electron: Comando utilizado para instalar la ultima version del framework electron.
+
+° npm install promise-mysql: Comando utilizado para instalar los paquetes de conexión a mysql.
+
+° npm install electron-reload: Comando utilizado para restaurar la aplicación cada vez que exista un cambio.
+
+° npm run start: Comando utilizado para correr la aplicación.
